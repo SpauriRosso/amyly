@@ -1,0 +1,16 @@
+{
+  "name": "aurilife",
+  "version": "4.2.5",
+  "description": "Bot officiel du serveur Auri RolePlay PS3 --- TOUTE COPIE EST INTERDITE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpyRisk9",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.18.9"
+  }
+}
